@@ -1,0 +1,25 @@
+include *.md
+recursive-include dist *
+recursive-include doc *
+recursive-include elxsi *
+include LICENSE
+include MANIFEST.in
+include README.md
+include Makefile
+include pyproject.toml
+include setup.py
+include setup.cfg
+
+# exclude from sdist
+recursive-exclude .github *
+recursive-exclude application *
+recursive-exclude elxsi.egg-info *
+exclude .gitignore
+exclude .mailmap
+exclude .pre-commit-config.yaml
+exclude CHANGELOG.md
+exclude CONTRIBUTING.md
+exclude environment.yml
+exclude lgtm.yml
+exclude requirements.txt
+exclude tox.ini
