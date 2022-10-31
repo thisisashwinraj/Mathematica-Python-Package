@@ -1,7 +1,7 @@
 include *.md
 recursive-include dist *
 recursive-include doc *
-recursive-include elxsi *
+recursive-include mathematica *
 include LICENSE
 include MANIFEST.in
 include README.md
@@ -13,7 +13,7 @@ include setup.cfg
 # exclude from sdist
 recursive-exclude .github *
 recursive-exclude application *
-recursive-exclude elxsi.egg-info *
+recursive-exclude mathematica.egg-info *
 exclude .gitignore
 exclude .mailmap
 exclude .pre-commit-config.yaml
