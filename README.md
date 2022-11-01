@@ -15,7 +15,7 @@ The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thi
 Elxsi runs on all operating systems, is quick to install, and is available for free use. No versions of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires [matplotlib](https://matplotlib.org/) (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
-The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:
+The files & directories, that are used are of critical importance to the mathematica python package are as mentioned:
 <br>
 • [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This directory contains the entire source distribution .tar file for the package that needs to be uploaded to PyPi
 <br>
@@ -24,11 +24,11 @@ The directories, and subdirectories used, that are of critical importance to the
 • [mathematica](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): The directory contains the entire code for performing operations & visualizing statistical distributions
 
 # Python Package Build Commands
-To install the elxsi python package, just run the following command to create an .egg file (python distribution format):
+To build mathematica python package, run the following command to create a tar.gz file (python distribution format):
 ```
-python setup.py bdist_egg
+python setup.py sdist
 ```
-To create raw source distribution file for this package, run the following command in your command prompt/terminal:
+To upload the python package to the pypi repository run the following command in your command prompt/terminal:
 ```
 python setup.py sdist bdist_wheel
 ```
@@ -38,38 +38,38 @@ To create an executable installer, run this command:
 python setup.py bdist_wininst
 ```
 # User Installation and Source Code
-Latest stable release of elxsi can either be downloaded from the repo or be simply installed from PyPi, using the code:
+Latest stable release of mathematica can be downloaded from the repo or simply installed from PyPi, using the code:
 ```
-pip install elxsi
+pip install mathematica
 ```
 Once this package has succesfully installed, a large array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by a ','), with first letter of each word typed in uppercase
-
-![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
-
+<br>
 Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs, that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
     
-    ├── LICENSE                   // GNU General Public License v3.0
+    ├── LICENSE                   // Licensed under the 'GNU General Public License v3.0'
     ├── pyproject.toml
-    ├── README.md                 // Contains base level documentation
-    ├── setup.cfg
-    ├── doc                       // Contains visual graphics (Images/Videos)
+    ├── README.md                 // Contains the base level documentation of the gh-repo
+    ├── requirements.txt
+    ├── assets                    // Contains all visual graphics (images, videos & gifs)
     │   └── images/Video/gif 
-    ├── example                   // Contains user guide for working with elxsi
+    ├── example                   // Contains the user guide for working with mathematica
     │   └── notebook
-    ├── setup.py                  // Packaged & distributed with disutils
-    ├── elxsi/
-    │   ├── distributions         // Code for statistical distributions
+    ├── setup.py                  // Packaged, & distributed using the disutils py module
+    ├── mathematica/
+    │   ├── distributions         // Code for various different statistical distributions
     │   └── __init__.py
-    └── tests/                    // Files for performing various unit tests (To be added)
+    └── tests/                    // Files for performing several unit test (to be added)
     
 
 # Contribution Guidelines
 To start contributing to the project, clone the repository into your local system subdirectory using the below git code:
 ```
-git clone https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package.git
+git clone https://github.com/thisisashwinraj/Mathematica-Python-Package.git
 ```
 Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo, using GitHub Desktop
-
+```
+gh repo clone thisisashwinraj/Mathematica-Python-Package
+```
 Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 
 Navigate to this sub-directory & check status of all files that were altered (red) by running the below code in GitBash:
