@@ -7,9 +7,9 @@ The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thi
 
 # SubDirectories and Dependencies
 ### Dependencies
-• Python (>= 3.9.0) - Learn more about the python programming from [here](https://www.python.org/), and download the latest version from [here](https://www.python.org/downloads/)
+• Python (>= 3.9.0) - Learn more about the python programming from [here](https://www.python.org/), & download the latest version from [here](https://www.python.org/downloads/)
 <br>
-• NumPy (>=1.20.3) - Learn about the NumPy package [here](https://numpy.org/), and install the package following the guidelines from [here](https://numpy.org/install/)
+• NumPy (>=1.20.3) - Learn about the NumPy package [here](https://numpy.org/), & install the package following the guidelines from [here](https://numpy.org/install/)
 
 **Note:**
 Elxsi runs on all operating systems, is quick to install, and is available for free use. No versions of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires [matplotlib](https://matplotlib.org/) (>= 2.1.1) and seaborn (>= 0.9.0) packages.
