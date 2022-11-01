@@ -2,7 +2,7 @@
 ![](https://github.com/thisisashwinraj/Mathematica-Python-Package/blob/main/assets/images/Mathematica_Banner_Light.png#gh-light-mode-only)
 Mathematica is a python package for performing advanced mathematical operations, distributions, and visualizations, & is licensed under the [GNU General Public License v3.0](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). It includes modules for calculating mean, standard deviation and the probability distribution function of several statistical distributions. The latest stable release can be found here.
 
-The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thisisashwinraj) as an academic project. The resources for this package, and the pull requests are maintained, and reviewed by a team of volunteers from [Workspace](https://github.com/workspacedevelopers). Learn more about elxsi v1.0.4 [here](https://codeinplace.stanford.edu/2021/showcase/436)
+The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thisisashwinraj) as an academic project. The resources for this package, & the pull requests are maintained, and reviewed by a team of volunteers from [Workspace](https://github.com/workspacedevelopers). Learn more about elxsi v1.0.4 [here](https://codeinplace.stanford.edu/2021/showcase/436)
 
 
 # SubDirectories and Dependencies
