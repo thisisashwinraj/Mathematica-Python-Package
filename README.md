@@ -16,9 +16,12 @@ Elxsi runs on all operating systems, is quick to install, and is available for f
 
 ### Files and Folders
 The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:
-• [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This sub-directory contains the entire source distribution for the package that needs to be uploaded to PyPi
-• [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This subdirectory contains the entire package's metadata, including a PKG-INGFO, and the sources
-• [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This subdirectory contains the entire code for performing operations and visualizing statistical distributions
+<br>
+• [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This directory contains the entire source distribution .tar file for the package that needs to be uploaded to PyPi
+<br>
+• [mathematica.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This sub-directory contains the entire package's metadata including a PKG-INGFO & sources
+<br>
+• [mathematica](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): The directory contains the entire code for performing operations & visualizing statistical distributions
 
 # Python Package Build Commands
 To install the elxsi python package, just run the following command to create an .egg file (python distribution format):
