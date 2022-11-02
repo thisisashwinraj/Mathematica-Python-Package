@@ -43,7 +43,7 @@ pip install mathematica
 ```
 Once this package has succesfully installed, a large array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by a ','), with first letter of each word typed in uppercase
 <br>
-Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs, that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
+Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs, that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/.github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
     
     ├── LICENSE                   // Licensed under the 'GNU General Public License v3.0'
     ├── pyproject.toml
