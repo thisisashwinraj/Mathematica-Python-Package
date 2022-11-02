@@ -12,7 +12,7 @@ The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thi
 • NumPy (>=1.20.3) - Learn about the NumPy package [here](https://numpy.org/), & install the package following the guidelines from [here](https://numpy.org/install/)
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install, and is available for free use. No versions of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires [matplotlib](https://matplotlib.org/) (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+Mathematica runs on all operating systems, is quick to install, and is available for free use. No versions of mathematica supports Python 2.x. Mathematica's plotting capabiliies requires [matplotlib](https://matplotlib.org/) (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
 The files & directories, that are used are of critical importance to the mathematica python package are as mentioned:
