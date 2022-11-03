@@ -1,6 +1,6 @@
 ![](https://github.com/thisisashwinraj/Mathematica-Python-Package/blob/main/assets/images/Mathematica_Banner_Dark.png#gh-dark-mode-only)
 ![](https://github.com/thisisashwinraj/Mathematica-Python-Package/blob/main/assets/images/Mathematica_Banner_Light.png#gh-light-mode-only)
-Mathematica is a python package for performing advanced mathematical operations, distributions, and visualizations, & is licensed under the [GNU General Public License v3.0](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). It includes modules for calculating mean, standard deviation and the probability distribution function of several statistical distributions. The latest stable release can be found here.
+Mathematica is a python package for performing advanced mathematical operations, distributions, and visualizations, & is licensed under the [GNU General Public License v3.0](https://github.com/thisisashwinraj/Mathematica-Python-Package/blob/main/LICENSE). It includes modules for calculating mean, standard deviation and the probability distribution function of several statistical distributions. The latest stable release can be found here.
 
 The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thisisashwinraj) as an academic project. The resources for this package, & the pull requests are maintained, and reviewed by a team of volunteers from [Workspace](https://github.com/workspacedevelopers). Learn more about mathematica [here](https://codeinplace.stanford.edu/2021/showcase/436)
 
@@ -16,11 +16,11 @@ Mathematica runs on all operating systems, is quick to install and is available 
 ### Files and Folders
 The files & directories, that are used are of critical importance to the mathematica python package are as mentioned:
 <br>
-• [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This directory contains the entire source distribution .tar file for the package that needs to be uploaded to PyPi
+• [dist](https://github.com/thisisashwinraj/Mathematica-Python-Package/tree/main/dist): This directory contains the entire source distribution .tar file for the package that needs to be uploaded to PyPi
 <br>
-• [mathematica.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This sub-directory contains the entire package's metadata including a PKG-INGFO & sources
+• [mathematica.egg-info](https://github.com/thisisashwinraj/Mathematica-Python-Package/tree/main/mathematica.egg-info): This sub-directory contains the entire package's metadata including a PKG-INGFO & sources
 <br>
-• [mathematica](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): The directory contains the entire code for performing operations & visualizing statistical distributions
+• [mathematica](https://github.com/thisisashwinraj/Mathematica-Python-Package/tree/main/mathematica): The directory contains the entire code for performing operations & visualizing statistical distributions
 
 # Python Package Build Commands
 To build mathematica python package, run the following command to create a tar.gz file (python distribution format):
