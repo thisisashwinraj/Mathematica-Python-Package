@@ -32,7 +32,7 @@ To upload the python package to the pypi repository run the following command in
 python setup.py sdist bdist_wheel
 ```
 Running this file creates the following sub-directories: dist, and elxsi.egg-info. Executable installer can also be created for installing the package in the Microsoft Windows environment. 
-To create an executable installer, run this command:
+To create an executable installer, run the command:
 ```
 python setup.py bdist_wininst
 ```
@@ -94,4 +94,4 @@ git push origin main
 All Pull Requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-The package, and other resources are distributed under the [GNU General Public License 3](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). This package is compatible with all operating systems. The latest stable version release of mathematica v1.0.1 & is available to be installed on any local system for general use through pip installer from [PyPi](https://pypi.org/project/elxsi/) (& other indexes) using requirement specifiers. Check out pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. The changes are logged in the /changelog
+The package, and other resources are distributed under the [GNU General Public License 3](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). This package is compatible with all operating systems. The latest stable version release of mathematica v1.0.1 & is available to be installed on any local system for general use through pip installer from [PyPi](https://pypi.org/project/elxsi/) (& other indexes) using requirement specifiers. Check out pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. The changes are logged in the changelog
