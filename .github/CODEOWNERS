@@ -10,8 +10,8 @@
 
 # Each line is a file pattern followed by one or more owners.
 
-.github/CODEOWNERS  @ashwinraj-in
+.github/CODEOWNERS  @thisisashwinraj
 
 # Build related files
-setup.py  @ashwinraj-in
-environment.yml  @ashwinraj-in
+setup.py @thisisashwinraj
+environment.yml @thisisashwinraj
