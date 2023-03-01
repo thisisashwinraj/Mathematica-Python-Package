@@ -66,7 +66,7 @@ To start contributing to the project, clone the repository into your local syste
 ```
 git clone https://github.com/thisisashwinraj/Mathematica-Python-Package.git
 ```
-Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo, using GitHub Desktop
+Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo, using [GitHub Desktop](https://desktop.github.com/)
 ```
 gh repo clone thisisashwinraj/Mathematica-Python-Package
 ```
