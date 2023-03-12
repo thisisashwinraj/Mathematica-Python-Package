@@ -38,7 +38,7 @@ To create an executable installer, run the command:
 python setup.py bdist_wininst
 ```
 # User Installation and Source Code
-Latest stable release of mathematica can be downloaded from the repo or simply installed from PyPi, using the code:
+Latest stable release of mathematica can be downloaded from the repo or simply installed from [PyPi](https://pypi.org/project/mathematica), using the code:
 ```
 pip install mathematica
 ```
