@@ -7,6 +7,7 @@ The project was started in April 2021 by [Ashwin Raj](https://www.github.com/thi
 
 
 # SubDirectories and Dependencies
+
 ### Dependencies
 • Python (>= 3.9.0) - Learn more about the python programming from [here](https://www.python.org/), & download the latest version from [here](https://www.python.org/downloads/)
 <br>
