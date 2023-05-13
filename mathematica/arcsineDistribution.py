@@ -1,9 +1,11 @@
-﻿"""
+# Author: Ashwin Raj <rajashwin733@gmail.com>
+# License: GNU General Public License v3.0
+
+"""
 Arcsine Distribution
 Arbitrary Bounded Support
 """
-# Author: Ashwin Raj <rajashwin733@gmail.com>
-# License: GNU General Public License v3.0
+
 
 import math
 from .generalDistribution import Distribution	#Import generalDistribution.py module
